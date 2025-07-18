@@ -1,5 +1,6 @@
-# printador200-para-linux
-Aplicativo que realiza capturas de tela em um sistema que não possui nativamente essa função, no caso o ambiente alvo foi um Raspberry Pi 3b.
+# Função de Screenshot para Raspberry Pi OS
+
+Aplicativo que realiza capturas de tela em um sistema que não possui nativamente essa função. O ambiente alvo e de teste foi um Raspberry Pi 3b com o sistema operacional baseado em Debian chamado Raspbian.
 
 Desenvolvido na linguagem Python com o uso das bibliotecas: PySimpleGUI, Times, OS e Pyscreenshot.
 
